@@ -1,0 +1,25 @@
+.equation{
+    width: 50px;
+    padding: 0;
+}
+.equationsItem{
+display: flex;
+align-items: center;
+flex-wrap: wrap;
+}
+.x1Equation{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.itemsABC{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.xTable{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
